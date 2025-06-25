@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ola</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h1 align="">Hi 👋, I'm Ola</h1>
+<h4 align="">Engineerign with Typescript and Solidity.</h4>
 
 - 🌱 I’m currently learning **Mobile dev and Rust programming**
 
