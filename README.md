@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ola</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
-- 🌱 I’m currently learning **Mobile dev and SOlidity**
+- 🌱 I’m currently learning **Mobile dev and Rust programming**
 
-- 👨‍💻 All of my projects are available at [https://olapade-rouge.vercel.app/](https://olapade-rouge.vercel.app/)
+- 👨‍💻 You can view an intersection of a few projects i've worked on at [https://olapade-rouge.vercel.app/](https://olapade-rouge.vercel.app/)
 
 - 📫 How to reach me **olapademicheal3@gmail.com**
 
